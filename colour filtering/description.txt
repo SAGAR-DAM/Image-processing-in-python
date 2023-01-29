@@ -1,0 +1,3 @@
+Created : Sagar Dam
+
+This code takes some image and colour and gives the coloured filter output of the image. 
