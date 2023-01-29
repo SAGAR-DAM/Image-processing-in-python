@@ -1,0 +1,6 @@
+# A CODE FOR GENERAL LINECUT THROUGH SOME POINT AND TOWARDS ALL DIRECTIONS.
+''' 
+This is a code to get the linecuts through some point of any image. The point pixel index should be given and 
+the lines are in some 10 degree interval. By changing the linecut degree intervals, we can take any number of 
+linecuts through the given point. 
+'''
