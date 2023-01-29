@@ -1,0 +1,9 @@
+Using skimage and PIL library and the packages, there are some general useful image processing tools provided in the folder. 
+The used modules are applicable for like:
+1. Resizing an image
+2. Cropping an image
+3. FFT os an image
+4. sharpning an image
+5. edge bordering 
+
+and many more...
