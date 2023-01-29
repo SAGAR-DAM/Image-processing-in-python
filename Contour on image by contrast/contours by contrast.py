@@ -4,7 +4,10 @@ Created on Sun Jan 29 21:36:35 2023
 
 @author: mrsag
 """
-
+'''
+THIS CODE FINDS SHAPES ON AN IMAGE DEPENDING ON THE BACKGROUND CONTRAST RATIO TO AND DRAWS
+CONTOURS OVER THE SHAPE 
+'''
 
 import numpy as np
 import matplotlib.pyplot as plt
