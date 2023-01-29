@@ -1,0 +1,1 @@
+This code takes two images and superposes them one over another and gives a new image file.
